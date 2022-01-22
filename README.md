@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 -🌱 I'm a keen learner and also an athlete.
 
 
-
-Graph gif
 ![snake gif](https://github.com/Debdeep1/Debdeep1/blob/output/github-contribution-grid-snake.gif)
