@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 -🌱 I'm a keen learner and also an athlete.
 
 
+<!-- My contributions -->
+## Github stats:
+![Github stats](https://github-readme-stats.vercel.app/api?username=Debdeep1)
 
 ![snake gif](https://github.com/Debdeep1/Debdeep1/blob/output/github-contribution-grid-snake.gif)
