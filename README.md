@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 
 [![Debdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Debdeep1&theme=xcode)](https://github.com/Debdeep1)
 
-<p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debdeep1&theme=tokyonight" />
-</p>
+
 
 
 ![snake gif](https://github.com/Debdeep1/Debdeep1/blob/output/github-contribution-grid-snake.gif)
