@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debdeep1&theme=tokyonight" />
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Debdeep1&theme=onedark)](https://github.com/Debdeep1/github-profile-trophy)
 
 ![snake gif](https://github.com/Debdeep1/Debdeep1/blob/output/github-contribution-grid-snake.gif)
