@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 
-[![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Debdeep1&theme=xcode)](https://github.com/Debdeep1)
+[![Debdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Debdeep1&theme=xcode)](https://github.com/Debdeep1)
