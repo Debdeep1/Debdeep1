@@ -32,7 +32,5 @@ Here are some ideas to get you started:
 
 
 
-![](https://gitwar.herokuapp.com/badge?username=Debdeep1&style=plastic)
-
 
 ![snake gif](https://github.com/Debdeep1/Debdeep1/blob/output/github-contribution-grid-snake.gif)
