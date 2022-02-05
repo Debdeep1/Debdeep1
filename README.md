@@ -30,4 +30,9 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Debdeep1&theme=onedark)](https://github.com/Debdeep1/github-profile-trophy)
 
+
+
+![](https://gitwar.herokuapp.com/badge?username=Debdeep1&style=plastic)
+
+
 ![snake gif](https://github.com/Debdeep1/Debdeep1/blob/output/github-contribution-grid-snake.gif)
