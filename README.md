@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 
 
-[![Debdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Debdeep1&theme=tokyonight)](https://github.com/Debdeep1)
+[![Debdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Debdeep1&theme=-xcode)](https://github.com/Debdeep1)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debdeep1&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debdeep1&theme=midnight-purple" />
 
 
 
