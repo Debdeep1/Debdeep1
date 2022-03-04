@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-[![Debdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Debdeep1&theme=midnight-purple)](https://github.com/Debdeep1)
+[![Debdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Debdeep1&theme=tokyonight)](https://github.com/Debdeep1)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debdeep1&theme=tokyonight" />
 
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 
 
-![snake gif](https://github.com/Debdeep1/Debdeep1/blob/output/github-contribution-grid-snake.gif&theme=midnight-purple)
+![snake gif](https://github.com/Debdeep1/Debdeep1/blob/output/github-contribution-grid-snake.gif)
