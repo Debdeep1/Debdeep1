@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <!-- My contributions -->
 ## Github stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=Debdeep1&theme=midnight-purple)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Debdeep1&theme=midnight-purple)  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debdeep1&theme=midnight-purple" />
 
 
 
 [![Debdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Debdeep1&theme=xcode)](https://github.com/Debdeep1)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debdeep1&theme=midnight-purple" />
 
 
 
