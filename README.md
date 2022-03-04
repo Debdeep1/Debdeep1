@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- My contributions -->
 ## Github stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=Debdeep1)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Debdeep1&theme=midnight-purple)
 
 
 
