@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -🔭 I'm a CS Undergrad, from Asansol Engineering College.
 -🌱 I'm a keen learner and also an athlete.
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Debdeep1&label=Profile%20views&color=6805D3&style=flat" alt="Debdeep1" /> </p></h3>
-   <div align="center">
+
 <!-- My contributions -->
 ## Github stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Debdeep1&theme=midnight-purple)  
