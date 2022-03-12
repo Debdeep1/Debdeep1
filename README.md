@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [![Debdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Debdeep1&theme=xcode)](https://github.com/Debdeep1)
 
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Debdeep1&theme=onedark)](https://github.com/Debdeep1/github-profile-trophy)
 
