@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>-🔭 I'm a CS Undergrad, from Asansol Engineering College. </h3> <br>
+<h3>-🔭 I'm a CS Undergrad, from Asansol Engineering College. </h3> 
 <h3>-🌱 I'm a keen learner and also an athlete.</h3>
 
 
