@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>-🔭 I'm a CS Undergrad, from Asansol Engineering College. </h3> <br>
--🌱 I'm a keen learner and also an athlete.
+<h3>-🌱 I'm a keen learner and also an athlete.</h3>
 
 
 <!-- My contributions -->
