@@ -20,8 +20,17 @@ Here are some ideas to get you started:
 
 <!-- My contributions -->
 ## Github stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=Debdeep1&theme=midnight-purple)  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debdeep1&theme=midnight-purple" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Debdeep1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Debdeep1&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debdeep1&theme=tokyonight" />
+</p>
 
 
 
