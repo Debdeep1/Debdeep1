@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -🔭 I'm a CS Undergrad, from Asansol Engineering College.  
--⚡ Chapter Lead @GirlScript Asansol and a MERN stack developer.
+-⚡ Chapter Lead @GirlScript Asansol and a MERN stack developer. </br>
 -🌱  I am an AI/Ml enthusiast and also an athlete.
 
 ## Contact me:
