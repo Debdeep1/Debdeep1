@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 
 [![Debdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Debdeep1&theme=xcode)](https://github.com/Debdeep1)
 
-![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/debdeep1)
+
 
