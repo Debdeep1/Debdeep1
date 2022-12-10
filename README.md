@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 
 [![Debdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Debdeep1&theme=xcode)](https://github.com/Debdeep1)
 
-![](https://komarev.com/ghpvc/?username=Debdeep1&label=VIEWS&color=blueviolet)
+
 
