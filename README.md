@@ -1,5 +1,5 @@
 ### Hi there! I am Debdeep, welcome to my github page. 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+developer+and+an+athlete!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&duration=3000&pause=1000&color=65F724&multiline=true&width=435&lines=I+am+Debdeep;I+am+a+developer+and+a+basketball+lover!)](https://git.io/typing-svg)
 <!--
 **Debdeep1/Debdeep1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 
 <!-- My contributions -->
 ## Github stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debdeep1&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debdeep1&theme=tokyonight)
 <table>
 <tr>
 <td>
