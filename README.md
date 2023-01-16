@@ -65,8 +65,3 @@ Here are some ideas to get you started:
 </p>
 
 
-
-[![Debdeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Debdeep1&theme=xcode)](https://github.com/Debdeep1)
-
-
-
