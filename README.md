@@ -56,8 +56,6 @@ Here are some ideas to get you started:
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=Debdeep1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Debdeep1&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
 </tr>
 </table>
 <p align="center">
