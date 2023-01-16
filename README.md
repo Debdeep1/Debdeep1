@@ -1,5 +1,5 @@
 ### Hi there! I am Debdeep, welcome to my github page. 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+developer+and+an+athlete!;)](https://git.io/typing-svg)
 <!--
 **Debdeep1/Debdeep1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
