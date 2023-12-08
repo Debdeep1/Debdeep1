@@ -73,7 +73,7 @@
 
 ###
 
-<img align="left" height="250" src="https://64.media.tumblr.com/6bab499818f20781e40ff9565d22672a/b996f5513edd9011-c3/s640x960/3bca413d7c045ab36a3fb47aa0ba2bb782216c49.gifv"  />
+<img align="left" height="250" src="https://im5.ezgif.com/tmp/ezgif-5-d1d7e60fac.gif"  />
 
 ###
 
