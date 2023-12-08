@@ -101,5 +101,8 @@
 
 ###
 
+<div align="center" height='100px' width='100px'>
+  
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
