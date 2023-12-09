@@ -73,11 +73,11 @@
 
 ###
 
-<img align="left" height="250" src="https://i.ibb.co/k3qQCMf/fce67c3f16fe8b8709214679f3f0fe43eb265038-1.gif"  />
+<img align="left" height="220" src="https://i.ibb.co/k3qQCMf/fce67c3f16fe8b8709214679f3f0fe43eb265038-1.gif"  />
 
 ###
 
-<p align="center">I'm an aspiring 🚀product manager, from India.<br>I have worked as a project mentor and project admin in open-source events.🎯<br>I have also been an SDE intern in a mental health startup, working primarily on backend feature maintenance and development. 👨🏻‍💻<br>As a freelancer, I have delivered several React-based web applications.<br>That being said, I have another side to me!  <br>🏆I have won State championship in basketball and have also played in a <br>🏀National tournament - All India Inter-Steel basketball championship, 2021.</p>
+<p align="right">I'm an aspiring 🚀product manager, from India.<br>🎯I have worked as a project mentor and project admin in open-source events.<br>👨🏻‍💻I have also been an SDE intern in a mental health startup, working primarily on backend feature maintenance and development.<br>As a freelancer, I have delivered several React-based web applications.<br>That being said, I have another side to me!  <br>🏆I have won State championship in basketball and have also played in a <br>🏀National tournament - All India Inter-Steel basketball championship, 2021.</p>
 
 ###
 
