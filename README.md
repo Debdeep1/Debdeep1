@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=500&color=2CE305&background=FF002D00&center=true&multiline=true&random=false&width=450&height=90&lines=Hi+%F0%9F%91%8B!+I+am+Debdeep;a+CS+undergrad+from+India.;a+competitive+Basketball+player" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=500&color=30ADF7FF&background=FF002D00&center=true&multiline=true&random=false&width=450&height=100&lines=Hi+%F0%9F%91%8B!+I+am+Debdeep;a+CS+undergrad+from+India.;a+competitive+Basketball+player" alt="Typing SVG" /></a></h2>
 
 ###
 
