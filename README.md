@@ -90,13 +90,30 @@
   - Aec coding club - A college club website
 ###
 <hr/>
-  <h3> <ins> My Stats </ins></h3>
-  <br/>
-<div align="center" display="grid">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Debdeep1&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Debdeep1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=false&order=2" height="200"  alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Debdeep1&locale=en&mode=daily&theme=calm&hide_border=false&border_radius=5&order=3" height="200"  alt="streak graph"  />
-</div>
+<!-- Github Stats --> 
+
+### Github stats:
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debdeep1&theme=gruvbox"/>
+    </td>
+     <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debdeep1&theme=gruvbox"/>
+    </td>
+  </tr>
+  
+  <tr>
+      <td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debdeep1&theme=gruvbox" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=soumali28&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" /> -->
+    </td>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Debdeep1&show_icons=true&locale=en&layout=compact&theme=gruvbox"/>
+    </td>
+  </tr>
+  
+</table>
 
 ###
 <img src="https://raw.githubusercontent.com/Debdeep1/Debdeep1/output/snake.svg" alt="Snake animation" />
