@@ -61,7 +61,13 @@
 
 ###
 
-<p align="left">I'm an aspiring 🚀Software Engineer, from India.<br>🎯I have worked as a project mentor and project admin in open-source events.<br>👨🏻‍💻I have also been an SDE intern in a mental health startup, working primarily on backend feature maintenance and development.<br>As a freelancer, I have delivered several React-based web applications.<br>That being said, I have another side to me!<br>🏆I have won State championship in basketball and have also played in a<br>🏀National tournament - All India Inter-Steel basketball championship, 2021.</p>
+I'm an aspiring 🚀Software Engineer, from India.
+  - 🎯I have worked as a project mentor and project admin in open-source events. 
+  - 👨🏻‍💻I have also been an SDE intern in a mental health startup, working primarily on backend feature maintenance and development.
+  - As a freelancer, I have delivered several React-based web applications.
+
+That being said, I have another side to me! 
+  - 🏆I have won State championship in basketball and have also played in a<br>🏀National tournament - All India Inter-Steel basketball championship, 2021.
 
 ###
 
