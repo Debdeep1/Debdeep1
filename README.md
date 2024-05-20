@@ -90,10 +90,10 @@ That being said, I have another side to me!
 
 ###
 
-  - United HOPE Foundation - An Ngo website
-  - CelestisAi - AI Interviewer
-  - Himalayan Dreamtreks - A travel website with booking facilities
-  - Aec coding club - A college club website
+  - <a href='https://uhfindia.org/'>United HOPE Foundation</a> - The initial website for a local NGO on MERN stack.
+  - <a href='https://github.com/SECTOR-51/Celestis.Ai/'>CelestisAi</a> - Building the MVP for AI Interviewer using MERN.
+  - <a href='https://himalayandreamtreks.in/'>Himalayan Dreamtreks</a> - Travel booking web-app with clear visualization of trekking locations.
+  - <a href='https://testaeccc.web.app/'>Aec coding club</a> - College Coding Club's webpage.
 ###
 <hr/>
 <!-- Github Stats --> 
