@@ -49,7 +49,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="deb.baner.1@gmail.com" target="_blank">
+  <a href="mailto:deb.baner.1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
   <a href="http://linkedin.com/in/debdeep-banerjee-04b39b220/" target="_blank">
